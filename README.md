@@ -1,7 +1,7 @@
 # HACKPAD-1<br>
 <img width="910" height="858" alt="Screenshot (154) (1)" src="https://github.com/user-attachments/assets/dd9b4d53-b102-4acb-b410-7e68f2767544" /><br>
 
-My custom hack pad with 5 Keys made for general shortcuts. It is based on SeedStudio XIAO RP2040.<br>
+My custom hack pad with 4 Keys made for general shortcuts. It is based on SeedStudio XIAO RP2040.<br>
 
 #  BOM<br>
 1 x XIAO RP2040<br>
